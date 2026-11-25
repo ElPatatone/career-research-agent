@@ -1,0 +1,11 @@
+# Managed weekday research task
+
+The original workflow operates as a ChatGPT Work scheduled task on weekdays. ChatGPT Work provides execution, tools and scheduling. The following sanitised reconstruction preserves the intent of the task instructions.
+
+1. Load the current job-search brief, CV, professional experience and persistent tracker. Recheck flagged vacancies, due follow-ups, stale high-fit records and promising unresolved routes. Reserve time for fresh discovery.
+2. Search UK and European startups for early-career paid, full-time work. Look across titles for ownership of operations, implementation, customer problems, product feedback and automation. Search direct careers pages, employer ATS boards, startup job boards and investor portfolios. Exclude LinkedIn. Sample direct company pages when a portfolio board is unreadable.
+3. Record the actual discovery source separately from the official application link. Check external intake through employer or authorised routes. Distinguish open, closed, internal-only and inconclusive intake. Check alternatives for inaccessible pages and retain promising gated roles for follow-up. Never apply or contact employers.
+4. Assess responsibilities, candidate evidence, eligibility and practical terms. Separate suitability from application priority and record user decisions still needed. Aim for around 15 new opportunities and include all suitable assessed roles. Preserve the legacy scoring weights pending recovery of their definitions.
+5. Deduplicate and update assessed records, including exclusions. Preserve manual fields, verification evidence and changes over time. Record omitted matches, reasons and next actions. Confirm persistence.
+6. Lead the report with up to three current-run verified application priorities across new and existing roles. Give a concrete next action, application route, truthful CV angle and material trade-offs. Account for changes, held matches, exclusions, companies to follow, coverage, attributable assessed counts and failures.
+7. After roughly two weeks of weekday reports, review source yield, unique contributions, duplicates, verification accuracy, tracker completeness, known misses, user decisions and measurable effort. Propose improvements for human review. This periodic review is separate from daily discovery.
